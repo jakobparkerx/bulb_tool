@@ -1,0 +1,2 @@
+bulb_elec.csv filter=lfs diff=lfs merge=lfs -text
+bulb_gas.csv filter=lfs diff=lfs merge=lfs -text
